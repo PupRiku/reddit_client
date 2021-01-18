@@ -1,7 +1,7 @@
 # Reddit TTRPG
 
 ## Application Detail
-TBD
+The Reddit TTRPG is an app that will allow you to create a single place for your TTRPG needs. You can filter subreddits by game, type, and role.
 
 ## Wireframes
 TBD
@@ -27,13 +27,16 @@ TBD
 * Selenium
 
 ## Features
-TBD
+* Choose a pre-made digest or create your own.
+* Change the appearance of the app by selecting a class.
+    * Light and Dark mode options available.
 
 ## Future Work
 TBD
 
 ## Documentation
 * [Reddit Links for Digests](https://falsepersona.atlassian.net/wiki/spaces/RT/pages/589840/TTRPG+Reddit+Links)
+* [Color Guide for Appearance Selector](https://falsepersona.atlassian.net/wiki/spaces/RT/pages/524324/TTRPG+Color+Guide)
 
 # Project Requirements
 
