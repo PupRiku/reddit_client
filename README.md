@@ -1,13 +1,30 @@
 # Reddit TTRPG
 
-## Program Detail
+## Application Detail
 TBD
 
 ## Wireframes
 TBD
 
 ## Technologies Used
-TBD
+### Project Management
+* Jira
+* Confluence
+### Wireframing
+* Adobe XD
+### Code Management
+* Visual Studio Code
+* GitHub
+### Code Development
+* HTML
+* CSS
+* JavaScript
+* React
+* Redux
+### Code Testing
+* Jest
+* Enzyme
+* Selenium
 
 ## Features
 TBD
