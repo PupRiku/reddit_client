@@ -55,3 +55,7 @@
       transform: none;
     }
   }
+
+  .section-divider {
+    border-top: 3px solid #bbb;
+  }
