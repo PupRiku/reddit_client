@@ -32,7 +32,8 @@ The Reddit TTRPG is an app that will allow you to create a single place for your
     * Light and Dark mode options available.
 
 ## Future Work
-TBD
+* Add support for Polls posts
+* Profiling to save custom digests
 
 ## Documentation
 * [Reddit Links for Digests](https://falsepersona.atlassian.net/wiki/spaces/RT/pages/589840/TTRPG+Reddit+Links)
