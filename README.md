@@ -4,7 +4,7 @@
 The Reddit TTRPG is an app that will allow you to create a single place for your TTRPG needs. You can filter subreddits by game, type, and role.
 
 ## Wireframes
-TBD
+* [Lo-fi Landing Page/Preset Selection](https://xd.adobe.com/view/bb95025a-3974-4a1a-6f5b-dd29da843395-cda4/?fullscreen)
 
 ## Technologies Used
 ### Project Management
