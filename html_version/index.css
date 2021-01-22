@@ -103,3 +103,21 @@
   .feed-select:hover {
     opacity: 0.7;
   }
+
+  .create-your-own {
+    border: none;
+    outline: 0;
+    display: block;
+    padding: 4px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 30%;
+    font-size: 18px;
+    margin: 0 auto;
+  }
+
+  .create-your-own:hover {
+    opacity: 0.7;
+  }
