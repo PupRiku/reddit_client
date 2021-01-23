@@ -12,12 +12,35 @@ export const savageWorldsSubreddits = ['/r/savageworlds'];
 export const cyberpunkSubreddits = ['/r/cyberpunkred'];
 export const generalSubreddits = ['/r/rpg', '/r/lfg', '/r/tabletop/', '/r/osr/'];
 
+export const gameTopics = [
+    dndSubreddits,
+    warhammerSubreddits,
+    shadowrunSubreddits,
+    chthuluSubreddits,
+    pathfinderSubreddits,
+    starWarsSubreddits,
+    starfinderSubreddits,
+    whiteWolfSubreddits,
+    savageWorldsSubreddits,
+    cyberpunkSubreddits,
+    generalSubreddits
+];
+
 export const creativeSubreddits = ['/r/worldbuilding', '/r/minipainting', '/r/imaginarymaps', '/r/dndmaps', '/r/battlemaps'];
 export const toolsSubreddits = ['/r/Roll20', '/r/wonderdraft', '/r/inkarnate', '/r/HeroForgeMinis'];
 export const entertainmentSubreddits = ['/r/dndmemes', '/r/DnDGreentext', '/r/criticalrole', '/r/rpghorrorstories', '/r/TheAdventureZone'];
 export const dmSubreddits = ['/r/DnDBehindTheScreen', '/r/DMAcademy', '/r/mattcolville', '/r/DungeonMasters', '/r/AskGameMasters/'];
 export const gameDesignSubreddits = ['/r/gamedesign', '/r/tabletopgamedesign', '/r/RPGdesign', '/r/RPGcreation'];
 export const hombrewSubreddits = ['/r/UnearthedArcana', '/r/DnDHomebrew', '/r/HomebrewDnD/'];
+
+export const themeTopics = [
+    creativeSubreddits,
+    toolsSubreddits,
+    entertainmentSubreddits,
+    dmSubreddits,
+    gameDesignSubreddits,
+    hombrewSubreddits
+];
 
 export const getThemeSubredditPosts = async (subreddits) => {
     const allPosts = [];
