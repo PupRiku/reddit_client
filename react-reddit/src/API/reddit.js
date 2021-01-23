@@ -25,7 +25,7 @@ export const getThemeSubredditPosts = async (subreddits) => {
     subreddits.forEach(async (subreddit) =>  {
         const response = await fetch(`${API_ROOT}${subreddit}.json`);
         const json = await response.json();
-        const posts = json.data.children.mao((post) => post.data);
+        const posts = json.data.children.map((post) => post.data);
         allPosts.concat(posts);
     });
 
